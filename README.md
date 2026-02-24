@@ -46,10 +46,13 @@ Desenvolvedor focado em soluções robustas de **Backend**, com sólida experiê
 
 ---
 
-### 📊 Estatísticas
+### 📊 Contribuições
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedronascimento17&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronascimento17&layout=compact&theme=nord" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedronascimento17&theme=nord" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-raster?user=pedronascimento17&outputs=github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
