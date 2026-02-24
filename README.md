@@ -19,7 +19,6 @@
 Desenvolvedor focado em soluções robustas de **Backend**, com sólida experiência em ecossistemas Microsoft e arquitetura de APIs. Atualmente, estou expandindo meus horizontes para o mundo de **Dados e Inteligência Artificial**.
 
 - 🔭 Atualmente trabalhando na **[Krooze](https://krooze.com.br)**.
-- 🛠️ Desenvolvendo projetos pessoais como o **Monely** (Finanças) e o **RegistraUrna** (Gestão Política).
 - 🌱 Estudando profundamente **Python, Data Science e LLMs**.
 - 💬 Especialista em **C#, SQL Server, RabbitMQ e Integrações de APIs**.
 - ⚡ Curiosidade: Eu não gosto de Java, mas sou movido a café. ☕
