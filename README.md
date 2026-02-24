@@ -51,10 +51,6 @@ Desenvolvedor focado em soluções robustas de **Backend**, com sólida experiê
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedronascimento17&theme=nord" alt="Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-raster?user=pedronascimento17&outputs=github-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 📫 Vamos nos conectar?
